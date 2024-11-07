@@ -1,4 +1,4 @@
 # UTS_PemogramanMobile
 UTS-Universitas Pelita Bangsa
-[!AltText](Picture/1)
+![alt text](Picture/1.jpg)
 
